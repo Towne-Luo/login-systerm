@@ -4,7 +4,7 @@
 
 ## 使用方法
 
-1. git clone xxx
+1. git clone https://github.com/luotong11/login-systerm.git
 
 2. pip 安装依赖
 
