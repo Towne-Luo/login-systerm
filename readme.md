@@ -5,17 +5,16 @@
 ## 使用方法
 
 1. git clone https://github.com/luotong11/login-systerm.git
-
-2. pip 安装依赖
-
-3. 创建数据库和数据表
+2. 修改setting.example.py为setting.py
+3. pip 安装依赖
+4. 创建数据库和数据表
 
 ```python
 python manage.py makemigrations
 python manage.py migrate
 ```
 
-4. 运行服务器
+5. 运行服务器
 
 ```
 python manage.py runserver
