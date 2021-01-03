@@ -126,7 +126,7 @@ EMAIL_USE_SSL = True                                           # 是否使用SSL
 EMAIL_HOST = 'smtp.qq.com'                                   #smtp服务器地址
 EMAIL_PORT = 465                                                #smtp服务端口，465结合SSL使用
 EMAIL_HOST_USER = 'xxx@qq.com'                               #修改为自己的邮箱
-EMAIL_HOST_PASSWORD = 'ahevgpyquslzdjjb'                                 #邮箱SMTP授权码
+EMAIL_HOST_PASSWORD = 'xxx'                                 #邮箱SMTP授权码(修改)
 
 # 注册有效期天数
 CONFIRM_DAYS = 7
